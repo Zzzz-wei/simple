@@ -1,0 +1,1 @@
+dubboExceptionFilter=com.simple.framework.dubbo.DubboExceptionFilter
